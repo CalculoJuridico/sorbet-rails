@@ -7,6 +7,7 @@ module ::Anonymous_Delegator_14; end
 module ::Anonymous_Delegator_18; end
 module ::Anonymous_Delegator_3; end
 module ::Elasticsearch::Model; end
+module ::FlagShihTzu; end
 module ::FriendlyId; end
 module ::Kaminari; end
 module ::Kaminari::ActiveRecordModelExtension; end
@@ -77,9 +78,6 @@ module Parser::CurrentRuby; end
 module ShrinePlugin::Shrine::Attachment; end
 module ShrinePlugin::Shrine::Plugins::RemoteUrl::AttachmentMethods; end
 module SorbetRails::Utils::Zeitwerk::Loader; end
-module T::InterfaceWrapper::Helpers; end
-module T::Private::Abstract::Hooks; end
 module T::Private::Methods::MethodHooks; end
 module T::Private::Methods::Signature; end
 module T::Private::Methods::SingletonMethodHooks; end
-module T::Props::Plugin::ClassMethods; end
